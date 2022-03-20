@@ -19,8 +19,5 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cycno&show_icons=true&locale=en&layout=compact" alt="cycno" /></p>
-<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cycno&show_icons=true&locale=en" alt="cycno" /></p>
-<hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cycno&" alt="cycno" /></p>
