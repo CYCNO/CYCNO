@@ -5,7 +5,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **html css and javascript**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/CYCNO)
 
