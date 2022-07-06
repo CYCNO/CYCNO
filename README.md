@@ -33,10 +33,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 </br>
-<a href="https://github.com/SealedSaucer">
-<img align="center" alt="Phantom's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=SealedSaucer&&show_icons=true&theme=tokyonight&layout=compact"/>
+<a href="https://github.com/CYCNO">
+<img align="center" alt="Phantom's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=CYCNO&&show_icons=true&theme=tokyonight&layout=compact"/>
 </br>
 </br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SealedSaucer&show_icons=true&theme=tokyonight&layout=compact" alt="SealedSaucer" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CYCNO&show_icons=true&theme=tokyonight&layout=compact" alt="SealedSaucer" />
 </a>
 </details>
