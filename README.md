@@ -15,5 +15,28 @@
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cycno&show_icons=true&locale=en" alt="cycno" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cycno&" alt="cycno" /></p>
+### Languages and Tools : 
+
+[<img align="left" alt="Python" width="26px" src="https://skillicons.dev/icons?i=python" />](https://www.python.org/)
+[<img align="left" alt="HTML5" width="26px" src="https://skillicons.dev/icons?i=html" />](https://www.w3.org/html/)
+[<img align="left" alt="CSS3" width="26px" src="https://skillicons.dev/icons?i=css" />](https://www.w3schools.com/css/)
+[<img align="left" alt="JavaScript" width="26px" src="https://skillicons.dev/icons?i=js" />](https://www.javascript.com/)
+[<img align="left" alt="Node.js" width="26px" src="https://skillicons.dev/icons?i=nodejs" />](https://nodejs.org/en/)
+[<img align="left" alt="Git" width="26px" src="https://skillicons.dev/icons?i=git" />](https://git-scm.com/)
+[<img align="left" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" />](https://github.com/)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com/)
+<br />
+<br />
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+</br>
+<a href="https://github.com/SealedSaucer">
+<img align="center" alt="Phantom's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=SealedSaucer&&show_icons=true&theme=tokyonight&layout=compact"/>
+</br>
+</br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SealedSaucer&show_icons=true&theme=tokyonight&layout=compact" alt="SealedSaucer" />
+</a>
+</details>
