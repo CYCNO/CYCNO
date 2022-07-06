@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/CYCNO)
 
-- 💬 You can ask me about **python**
+- 💬 WEBSITE : NOT YET
 
-- ⚡ Fun fact **I can't beat minecraft even playing from 2017**
+- ⚡ ETC
 
 
 <h3 align="left">Languages and Tools:</h3>
