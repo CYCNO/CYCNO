@@ -37,6 +37,8 @@
 </br>
 </br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CYCNO&show_icons=true&theme=tokyonight&layout=compact" alt="CYCNO" />
-</a>
+</br>
+</br>
 <img src="https://activity-graph.herokuapp.com/graph?username=CYCNO&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=00708f">
+</a>
 </details>
