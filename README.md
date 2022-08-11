@@ -38,4 +38,5 @@
 </br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CYCNO&show_icons=true&theme=tokyonight&layout=compact" alt="SealedSaucer" />
 </a>
+<img src="https://activity-graph.herokuapp.com/graph?username=CYCNO&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=00708f&hide_border=true">
 </details>
