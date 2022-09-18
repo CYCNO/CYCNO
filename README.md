@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CYCNO</h1>
 <h3 align="center">I am passionate in web development</h3>
 
-<p align="right"> <img src="https://img.etimg.com/thumb/msid-84146056,width-1070,height-580,imgsize-638053/photo.jpg" /> </p>
+<p align="right"> <img src="https://img.etimg.com/thumb/msid-84146056,width-1070,height-580,imgsize-638053/photo.jpg"> </p>
 
 <hr>
 
