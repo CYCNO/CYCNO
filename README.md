@@ -17,13 +17,7 @@
 
 ### Languages and Tools : 
 
-[<img align="left" alt="Python" width="26px" src="https://skillicons.dev/icons?i=python" />](https://www.python.org/)
-[<img align="left" alt="HTML5" width="26px" src="https://skillicons.dev/icons?i=html" />](https://www.w3.org/html/)
-[<img align="left" alt="CSS3" width="26px" src="https://skillicons.dev/icons?i=css" />](https://www.w3schools.com/css/)
-[<img align="left" alt="JavaScript" width="26px" src="https://skillicons.dev/icons?i=js" />](https://www.javascript.com/)
-[<img align="left" alt="Git" width="26px" src="https://skillicons.dev/icons?i=git" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" />](https://github.com/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![GODOT](https://img.shields.io/badge/godot-3582bb.svg?style=for-the-badge&logo=godot-engine&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 <br />
 <br />
 
@@ -39,6 +33,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CYCNO&show_icons=true&theme=tokyonight&layout=compact" alt="CYCNO" />
 </br>
 </br>
-<img src="https://activity-graph.herokuapp.com/graph?username=CYCNO&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=00708f">
+<img src="https://github-contributor-stats.vercel.app/api?username=CYCNO&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
 </a>
 </details>
