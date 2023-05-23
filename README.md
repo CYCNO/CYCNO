@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CYCNO</h1>
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=18&color=F7F7F7&center=true&duration=2000&pause=100&multiline=false&width=500&height=40&lines=CYCNO;Student+%7C+Website+Developer+%7C+;AI+%7C+Automation+%7C+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=18&color=0F81FFFF&center=true&duration=2000&pause=100&multiline=false&width=500&height=40&lines=CYCNO;Student+%7C+Website+Developer+%7C+;AI+%7C+Automation+%7C+APIs" alt="Typing SVG" />
 </a>
 <p align="right"> <img src="https://img.etimg.com/thumb/msid-84146056,width-1070,height-580,imgsize-638053/photo.jpg"> </p>
 
