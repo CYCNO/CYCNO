@@ -2,7 +2,8 @@
 <p align="center">
 <a href="https://github.com/CYCNO">
     <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=18&color=0F81FFFF&center=true&duration=2000&pause=100&multiline=false&width=500&height=40&lines=CYCNO;Student+%7C+Website+Developer+%7C+;AI+%7C+Automation+%7C+APIs" alt="Typing SVG" />
-</a>
+</a></p>
+
 <p align="right"> <img src="https://img.etimg.com/thumb/msid-84146056,width-1070,height-580,imgsize-638053/photo.jpg"> </p>
 
 <hr>
@@ -16,8 +17,13 @@
 - ⚡ LANGUAGES : PYTHON, HTML, CSS AND JAVASCRIPT
 
 <hr>
+<p align="center">
+<a href="mailto:itest7416@gmail.com">
+    <img src="https://img.shields.io/badge/Send-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a></p>
+<hr>
 
-### Languages and Tools : 
+### 🎯 Languages and Tools : 
 
 <div align="left">
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo" /></a>
@@ -38,6 +44,8 @@
   <a href="https://console.cloud.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  /><a/>
 </div>
 
+---
+      
 ### 🖥️ Open-Source Projects
 <table>
 <tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
@@ -69,7 +77,7 @@
 | [Selfcord](https://github.com/Shell1010/Selfcord) | <img alt="Stars" src="https://img.shields.io/github/stars/Shell1010/Selfcord?style=flat-square&labelColor=black"/> | [![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/selfcord/) <br>
 
 </td></tr> </table>
-
+<hr>
 <details>
   <summary>:zap: GitHub Stats</summary>
 </br>
