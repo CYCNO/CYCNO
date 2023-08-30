@@ -36,7 +36,6 @@
   <a href="https://www.selenium.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="52" alt="selenium logo" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo" /></a>
   <a href="https://godotengine.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" width="52" alt="godot logo" /></a>
-  <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo" /></a>
   <a href="https://www.nginx.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo" /></a>
   <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo" /></a>
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  /><a/>
@@ -47,7 +46,7 @@
       
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><th>Machine Learning </th> <th>PyPi Packages</th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
@@ -62,7 +61,7 @@
 </td></tr> </table>
 
 <table>
-<tr><th>APIs </th><th>Contributions</th></tr>
+<tr><th>APIs </th><th>Projects</th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
@@ -73,7 +72,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Selfcord](https://github.com/Shell1010/Selfcord) | <img alt="Stars" src="https://img.shields.io/github/stars/Shell1010/Selfcord?style=flat-square&labelColor=black"/> | [![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/selfcord/) <br>
+| [Bulk Mail Sender](https://github.com/CYCNO/bulk-mail-sender) | <img alt="Stars" src="https://img.shields.io/github/stars/CYCNO/bulk-mail-sender?style=flat-square&labelColor=black"/> | [![SMTP](https://img.shields.io/badge/SMTP-black?style=flat-square&logo=minutemailer)](https://docs.python.org/3/library/smtplib.html) <br>
 
 </td></tr> </table>
 <hr>
