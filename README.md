@@ -30,7 +30,7 @@
   <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" /></a>
   <a href="https://html.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" /></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://imgs.search.brave.com/EKsk4xtJu-qcCLu6v_GJEiJbWXakB9PzJp_snmXg4ak/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy90YWlsd2luZC1j/c3MtMi5zdmc.svg" height="40" width="52" alt="tailwindcss logo" /></a>
   <a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="flask logo" /></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" width="52" alt="fastapi logo" /></a>
   <a href="https://www.selenium.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="52" alt="selenium logo" /></a>
@@ -73,6 +73,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [Bulk Mail Sender](https://github.com/CYCNO/bulk-mail-sender) | <img alt="Stars" src="https://img.shields.io/github/stars/CYCNO/bulk-mail-sender?style=flat-square&labelColor=black"/> | [![SMTP](https://img.shields.io/badge/SMTP-black?style=flat-square&logo=minutemailer)](https://docs.python.org/3/library/smtplib.html) <br>
+| [DispoChat](https://github.com/CYCNO/DispoChat) | <img alt="Stars" src="https://img.shields.io/github/stars/CYCNO/DispoChat?style=flat-square&labelColor=black"/> | [![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask)](https://flask.palletsprojects.com/en/3.0.x/)
 
 </td></tr> </table>
 <hr>
