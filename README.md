@@ -17,9 +17,8 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">- 🔭 currently working in <a href="https://errorly.github.io/">errorly</a></p>
+- <p align="left">currently working in <a href="https://errorly.github.io/">errorly</a></p>
+- all my projects are [here](https://cycno.is-a.dev/#projects)
 
 ###
 
